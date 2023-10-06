@@ -15,4 +15,4 @@ Local environment: MATLAB with [Signal Processing Toolbox](https://www.mathworks
 * `mainAPP.mlapp` The graphical interface to demonstrate the breakdown of all components in this project. See the Appendix in [project report](media/EIE3510_project_report.pdf) for a more detailed user manual;
 * `piano_violin.m` Demo of a few notes on how we mimic the piano and violin sounds.
 
-![GUI-demo](media/Project_demo.mp4)
+![GUI-demo](figs/UI-demo.gif)
