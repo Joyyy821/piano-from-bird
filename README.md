@@ -1,6 +1,6 @@
 # piano-from-bird
 
-Authors: Yang Jiao, Jifei Zhao
+Authors: Yang Jiao, [Jifei Zhao](https://github.com/fifisn)
 
 Composition and instrumental music generation from bird songs using time-frequency analysis
 
